@@ -14,7 +14,7 @@ class ViewController: UIViewController , UICollectionViewDelegateFlowLayout {
     @IBOutlet weak var showButton: UIButton!
     
         var enterNumber = Int()
-    
+    var totalNumberOfRows = Int()
    
     override func viewDidLoad() {
         super.viewDidLoad()
