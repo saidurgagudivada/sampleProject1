@@ -10,6 +10,7 @@ import UIKit
 class NewCell: UICollectionViewCell {
     /*
      Sample commit
-     first commit 
+     first commit
+     second commit
      */
 }
