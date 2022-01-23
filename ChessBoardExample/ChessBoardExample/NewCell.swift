@@ -11,6 +11,6 @@ class NewCell: UICollectionViewCell {
     /*
      Sample commit
      first commit
-     second commit
+     Second commit
      */
 }
